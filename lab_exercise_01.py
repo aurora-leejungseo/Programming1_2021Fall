@@ -45,7 +45,7 @@ total_students
 
 # PROBLEM 6 (3 points)
 
-avg_event_size = total_students / num_events
+avg_event_size = total_students // num_events
 
 avg_event_size
 
